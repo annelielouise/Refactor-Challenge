@@ -9,3 +9,4 @@ In this project I edited Horiseon's HTML and CSS to make it more accessible and 
 With this project the thing I struggled with the most was sorting through and doing the tediuous work of re-naming most elements that were originally under "div," but now I have a better understanding as to why we use semantic elements rather than general ones whenever possible.
 
 ## Links
+GitHub project repository: https://github.com/annelielouise/Refactor-Challenge
