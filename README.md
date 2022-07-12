@@ -10,4 +10,5 @@ With this project the thing I struggled with the most was sorting through and do
 
 ## Links
 GitHub project repository: https://github.com/annelielouise/Refactor-Challenge
+
 Published application: https://annelielouise.github.io/Refactor-Challenge/
